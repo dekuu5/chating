@@ -1,0 +1,7 @@
+[package]
+name = "chating"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+openssl = { version = "0.10.79", features = ["vendored"] }
